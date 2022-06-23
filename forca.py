@@ -1,5 +1,3 @@
-from site import check_enableusersite
-
 
 def jogar():
     print("*********************************")

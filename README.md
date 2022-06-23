@@ -6,4 +6,6 @@
 - Sistema de pontuação baseado na rodada + dificuldade selecionada.
 
 Jogo da Forca.
-- Em processo.
+- Manipulação de String.
+- Listas e Tuplas.
+- Escrita e leitura de arquivos.
